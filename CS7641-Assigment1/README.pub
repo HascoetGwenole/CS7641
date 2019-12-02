@@ -1,0 +1,5 @@
+The repository contains a jupyter notebook for both datasets I chose (They are named Football.ipynb 
+and Phising websites.ipynb). 
+
+To be run, these notebooks can be opened with Jupyter Notebook, and then each cell
+can be run individualy. I advise to run the cells in order to avoid any problem of undefined variables.
