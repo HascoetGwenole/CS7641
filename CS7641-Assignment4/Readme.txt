@@ -1,4 +1,6 @@
-The code and the datasets I used for this analysis can be download from https://github.com/HascoetGwenole/CS7641-Assignment4
+This repository contains the code I used for my 4th assignment of CS 7641 that focusses on reinforcement learning. In particalar,
+I used value iteration, policy iteration and Epsilon greedy Q-Learning.
+
 This github repository contains a jupyter notebook for both MDP I chose for this assigment (respectively named 
 "Forest Management Problem.ipynb" and "Taxi.ipynb"). 
 
