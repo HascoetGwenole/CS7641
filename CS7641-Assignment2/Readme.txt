@@ -1,8 +1,6 @@
 CS 7641 Assignment 2: Randomized Optimization
 
-
-The code and the dataset I used for this analysis can be download from:
-https://github.com/HascoetGwenole/CS7641-Assignment2
+This repository focuses on Randomized optimization, more particalarly on Random Hill Climbing, Simulated Annealing, Genetic Algorithm and MIMIC.
 
 This github repository contains the jupyter notebook that I used to run the toys optimization problems, and to train
 a neural network. 
