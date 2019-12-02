@@ -1,4 +1,5 @@
-The code and the datasets I used for this analysis can be download from https://github.com/HascoetGwenole/CS7641-Assignment3
+This repository contains the code I used for the third assigmnent that focus on non supervised lerning algorithm (GMM and K-Means) and 
+dimentionality reduction (PCA, Random projection, ICA).
 
 This github repository contains a jupyter notebook for both datasets I chose for this assigment (respectively named 
 "Unsupervised Learning Digit Dataset.ipynb" and "Unsupervised Learning Phishing website.ipynb"). This github repositoty 
