@@ -1,5 +1,5 @@
-This project aims to implement and compare the performances of supervised learning algorithms on two datasets. The algoritm used are decision 
-trees, Boosting, SVM, Neural Network
+This project aims to implement and compare the performances of supervised learning algorithms on two datasets, and tune their hyperparameters.
+The algoritm used are decision trees, Boosting, SVM and Neural Network.
 The repository contains a jupyter notebook for both datasets I chose (They are named Football.ipynb 
 and Phising websites.ipynb). 
 
